@@ -22,7 +22,7 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 [The Course at Udemy](https://www.udemy.com/course/eclipse-debugging-techniques-and-tricks/)   
 
-[GitHub link](https://github.com/j2eeexpert2015/DebuggingTutorial)
+[GitHub Course Project Link](https://github.com/j2eeexpert2015/DebuggingTutorial)
 
 Insert certificate here when completed
 
@@ -31,7 +31,7 @@ Insert certificate here when completed
 
 ## Eclipse Debugging Techniques And Tricks progress
 
-- [x] [Section 01](#) - Introduction to Java Debugging Using Eclipse
+- [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201) - Introduction to Java Debugging Using Eclipse
 - [ ] Section 02 - Basic Debugging Features
 - [ ] Section 03 - Advanced Debugging Features
 - [ ] Section 04 - Sample Debugging Problems And Their Solution
