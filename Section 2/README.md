@@ -2,14 +2,12 @@
 
  Introduction to Java Debugging Using Eclipse
 
-
 # What I Learned
 
 - Debugging is a methodical process of finding and fixing the bugs in software.
-- Breakpoint is pause in code.
-
 <br>
-
+- Breakpoint is pause in code.
+<br>
 - **Step Over (F6)**, Line get executed and control is given in next line
 
 <img src="stepOver.JPG" alt="alt text" width="500"/>
@@ -25,7 +23,7 @@
 
 <img src="EclipseDebuggingTricks.JPG" alt="alt text" width="300"/>
 
-#### Step into selection
+### **Step into selection**
 
 <img src="StepIntoSelection.JPG" alt="alt text" width="500"/>
 
@@ -38,4 +36,35 @@
 
 <img src="breakAfterStepInto.JPG" alt="alt text" width="500"/>
 
-- Jäin 7:50
+- We can ignore other breakpoints and run into specific line using
+
+<img src="runIntoLine.JPG" alt="alt text" width="500"/>
+
+- Skip all breakpoints. **Easy to leave on!**
+
+<img src="skipAllBreakPoint.JPG" alt="alt text" width="700"/>
+
+- We can evaluate expressions from `Highlight Expression` then click `Inspect`
+
+<img src="InspectExpressions.JPG" alt="alt text" width="400"/>
+
+- We can watch expression getting folded out
+    - This can be also done in ahead in executed time
+
+<img src="InspectExpressionsResults.JPG" alt="alt text" width="300"/>
+
+<br>
+
+- Execute can evaluate input ahead of time, just like inspect expression
+
+<img src="Execute.JPG" alt="alt text" width="600"/>
+
+<br>
+
+<img src="expressions.JPG" alt="alt text" width="400"/>
+
+- Expressions are also good way to evaluate values at execution time.
+
+<img src="expressions.JPG" alt="alt text" width="400"/>
+
+
