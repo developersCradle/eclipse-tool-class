@@ -67,4 +67,18 @@
 
 <img src="expressions.JPG" alt="alt text" width="400"/>
 
+<br>
 
+- We can look differently created object. **Show logical structure** or whiteout 
+
+<img src="showLogicalStructures.JPG" alt="alt text" width="400"/>
+
+1. We can toggle this and remove this from button.
+
+<img src="whitoutLogicalStucture.JPG" alt="alt text" width="400"/>
+
+- Whiteout there a lot of "extra" methods. Like form arrays methods
+
+<br>
+
+<img src="debugShell.JPG" alt="alt text" width="400"/>

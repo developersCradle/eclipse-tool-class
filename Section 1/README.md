@@ -12,6 +12,8 @@
 
 <img src="convertToFacetedForm.JPG" alt="alt text" width="600"/>
 
+<br>
+
 <img src="eclipseConfig.JPG" alt="alt text" width="600"/>
 
 1. Check Java options, we recommended 1.8
