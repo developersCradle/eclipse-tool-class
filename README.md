@@ -34,7 +34,7 @@ Insert certificate here when completed
 - [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201) - Introduction to Java Debugging Using Eclipse
 - [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202) - Basic Debugging Features
 - [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203) - Advanced Debugging Features
-- [ ] Section 04 - Sample Debugging Problems And Their Solution
+- [ ] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204) - Sample Debugging Problems And Their Solution
 - [ ] Section 05 - Thank You!
 - [ ] Section 06 - Bonus Section
 

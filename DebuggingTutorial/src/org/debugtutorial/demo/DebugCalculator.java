@@ -13,7 +13,7 @@ public class DebugCalculator {
 		System.out.println("result1:" + result1);
 		int result2 = CalculatorUtil.subtract(result1, i);
 		System.out.println("result2:" + result2);
-		int result3 = CalculatorUtil.divide(100, 10);
+		int result3 = CalculatorUtil.divide(100, 0);
 		System.out.println("result3:" + result3);
 		int result4 = CalculatorUtil.factorial(5);
 		System.out.println("result4:" + result4);

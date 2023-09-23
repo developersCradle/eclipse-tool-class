@@ -127,13 +127,28 @@
 
 <img src="conditionalBreakPoint.JPG" alt="alt text" width="500"/>
 
-1.  We can modify breakpoint from **Breakpoint Properties...**
+<br>
 
+1.  We can modify breakpoint from **Breakpoint Properties...**
 
 <img src="conditionalBreakPointConfiguring.JPG" alt="alt text" width="500"/>
 
 - We put **`ON`** Conditional
 
 1. Place **logic** for triggering **breakpoint** 
+    - This one will be breaking when country is **`US`**
 
-3:40 jäin
+<img src="brakePointOccurredUS.JPG" alt="alt text" width="500"/>
+
+<br>
+
+- As you can see program has halted in **`US`** Element
+
+<img src="iterationHitCountBp.JPG" alt="alt text" width="500"/>
+
+<br>
+
+1. You brake on hit count example here is specified 6 hit count
+2. You can see 5 `println` occurred and 6 has been halted
+
+<img src="howToDebugExpection.JPG" alt="alt text" width="500"/>
