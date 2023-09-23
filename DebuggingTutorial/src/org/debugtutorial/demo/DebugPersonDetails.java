@@ -4,6 +4,7 @@ import org.debugtutorial.util.DataUtil;
 
 public class DebugPersonDetails {
 	public static void main(String[] args) {
+		
 		int firstPersonAge = DataUtil.getPersonData().get(0).getAge();
 		
 		System.out.println("Line number 1 for debug !!");

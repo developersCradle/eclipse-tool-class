@@ -82,3 +82,58 @@
 <br>
 
 <img src="debugShell.JPG" alt="alt text" width="400"/>
+
+<br>
+
+<img src="debugShell1.JPG" alt="alt text" width="400"/>
+
+<br>
+
+1. You can execute piece of code here even if debug console is frozen in certain line. In example, **evaluate size of personData()**. Using button **Display Result of Evaluating Selected Text** 
+
+2. You can see evaluated value returned from expression
+
+3. Executes without returning value 
+
+<img src="debugShell1console.JPG" alt="alt text" width="300"/>
+
+<br>
+
+<img src="debugSessionToString().JPG" alt="alt text" width="500"/>
+
+1. Eclipse normally outputs **Object** to using `toString()` to debug window
+    - Note bp is frozen here
+
+- We can change formatting in eclipse
+
+<br>
+
+<img src="weCanCreateFormatter.JPG" alt="alt text" width="500"/>
+
+- We can create debug formatter here
+
+- We will write formatter for `Person.java` class
+    - We just describe the output format
+
+<img src="configuringDebugFormatter.JPG" alt="alt text" width="500"/>
+
+<br>
+
+<img src="debugFormatterWorking.JPG" alt="alt text" width="500"/>
+
+1. We can see the configured formatter working
+
+- We can debug **specific** object in **List**. Furthermore, we can achieve this using **conditional breakpoint**
+
+<img src="conditionalBreakPoint.JPG" alt="alt text" width="500"/>
+
+1.  We can modify breakpoint from **Breakpoint Properties...**
+
+
+<img src="conditionalBreakPointConfiguring.JPG" alt="alt text" width="500"/>
+
+- We put **`ON`** Conditional
+
+1. Place **logic** for triggering **breakpoint** 
+
+3:40 jäin
