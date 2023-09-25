@@ -130,4 +130,7 @@ Advanced Debugging Features
 
 1. **Drop To Frame** kinda "rewinds" the application to the state which was **Dropped to Frame**
 
-- Todo Harjoittele protoa, en ihan siäistänyt hyötyä
+- **Todo** Tee joku Proto projeti jossa käy ilmi tämä
+
+- [Debug View](https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Freference%2Fviews%2Fdebug%2Fref-droptoframe.htm)
+- [Drop Frame](https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Freference%2Fviews%2Fdebug%2Fref-droptoframe.html)

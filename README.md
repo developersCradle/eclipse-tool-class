@@ -24,6 +24,10 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 [GitHub Course Project Link](https://github.com/j2eeexpert2015/DebuggingTutorial)
 
+[GitHub of Maker](https://github.com/j2eeexpert2015)
+
+
+
 Insert certificate here when completed
 
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
