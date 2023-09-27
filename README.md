@@ -13,6 +13,8 @@
    <img src="https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif" alt="alt text" width="300"/>
 </p>
 
+<hr>
+
 ![Eclipse Debugging](eclipseDebuggingTechniquesAndTricks.JPG)
 
 All course material from **Eclipse Debugging Techniques And Tricks by Learning** by from Experience/Swapan Kumar Dutta 
@@ -44,10 +46,29 @@ Insert certificate here when completed
 
 
 
+<hr>
 
+![Eclipse Debugging](eclipseIDEforBeginners.JPG)
 
+All course material from **Eclipse IDE for Beginners: Increase Your Java Productivity** by Chad Darby 
 
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
+[The Course at Udemy](https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/)   
+
+[Maker Home Page](https://luv2code.com/)   
+
+<img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/>
+
+## Eclipse IDE for Beginners: Increase Your Java Productivity
+
+- [ ] Section 1 - Course Introduction and Special Discount Offer
+- [ ] Section 2 - Getting Started with Eclipse 
+- [ ] Section 3 - Managing Source Code
+- [ ] Section 4 - Advanced Features 
+- [ ] Section 5 - Summary
+
+<hr>
 
 some other todo:
 - todo make shortcut pdf and .md
@@ -58,7 +79,7 @@ some other todo:
 
 ## Eclipse hotkeys
 
-> Open implementation **F3**
+> Open implementation - **F3**
 
 <img src="f3HotKeyExample.JPG" alt="alt text" width="300"/>
 
