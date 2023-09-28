@@ -48,7 +48,7 @@ Insert certificate here when completed
 
 <hr>
 
-![Eclipse Debugging](eclipseIDEforBeginners.JPG)
+![Eclipse Debugging](eclipseIDEforBeginners.jpg)
 
 All course material from **Eclipse IDE for Beginners: Increase Your Java Productivity** by Chad Darby 
 
