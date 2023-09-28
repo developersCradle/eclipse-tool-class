@@ -70,8 +70,29 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 <hr>
 
+![Devtools Pro](devtoolsChrome.JPG)
+
+All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if wan't to keep going he has also paid course for even better/deepper knowledge
+
+If the content sparked :fire: your interest, please consider buying the course and start learning :book:
+
+[The Course at Udemy](https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/)   
+
+[Maker Home Page](https://simmer.io/)   
+
+<!-- <img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/> -->
+
+## Devtools Pro: The Basics of Chrome Developer Tools
+
+- [ ] Section 1 - The Basics
+- [ ] Section 2 - Digging Deeper
+- [ ] Section 3 - Bonus
+
+<hr>
+
 some other todo:
 - todo make shortcut pdf and .md
+- todo https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/
 - todo https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
