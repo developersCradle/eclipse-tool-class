@@ -62,8 +62,8 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 ## Eclipse IDE for Beginners: Increase Your Java Productivity
 
-- [ ] Section 1 - Course Introduction and Special Discount Offer
-- [ ] Section 2 - Getting Started with Eclipse 
+- [x] Section 1 - Course Introduction and Special Discount Offer
+- [x] Section 2 - Getting Started with Eclipse 
 - [ ] Section 3 - Managing Source Code
 - [ ] Section 4 - Advanced Features 
 - [ ] Section 5 - Summary
@@ -72,7 +72,7 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 ![Devtools Pro](devtoolsChrome.JPG)
 
-All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if wan't to keep going he has also paid course for even better/deepper knowledge
+All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if want to keep going he has also paid course for even better/deeper knowledge
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
