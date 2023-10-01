@@ -1,5 +1,6 @@
 ## Section 3: Managing Source Code
 
+ Managing Source Code
 
 # What I Learned
 
@@ -38,7 +39,7 @@
 
 <img src="typeHierachy.jpg" alt="alt text" width="600"/>
 
-### Display quick inheritance tree
+### Display Quick Inheritance Tree
 
 > Right-click > Quick Type Hierarchy
 
@@ -48,7 +49,7 @@
 
 1. You can type to filter 
 
-### Search for text
+### Search For Text
 
 > CTRL + F
 
@@ -58,7 +59,7 @@
 
 - If you have multiple files
 
-### Search for multiple files
+### Search For Multiple Files
 
 > Search > Search 
 
@@ -76,4 +77,45 @@
 
 1. We are using `*` wild card with method name `create*`. Searching **method** name start with `create`
 
-4:00
+### View Method Detail
+
+> Right-click > Open Declaration (**F3**)
+
+- Opens declaration of method when opened 
+
+### Finding Reference For Method
+
+> Right-click > References > Workspace
+
+<img src="findingReferencesInWorkspace.jpg" alt="alt text" width="600"/>
+
+- We can look where this method is being called
+
+
+### Call Hierarchy: Sequence of methods calls
+
+> Right-click > Open Call Hierarchy
+
+- Given sequence of methods calls
+
+
+<img src="callHierachyCalls.jpg" alt="alt text" width="600"/>
+
+1. We are calling `Call Hierachy` here
+2. We are reading this from **top** to **bottom**. **Main method** is calling our **constructor** which in sense is calling **our method** `create*` 
+
+### Generating Getters and Setters
+
+> Right-click > Source > Generating Getters and Setters
+
+<img src="generartingGettersAndSetters.jpg" alt="alt text" width="600"/>
+
+1. We can generate fetters and setters from class fields
+
+### Generating Constructor using fields
+
+> Right-click > Source > Generating Constructors using fields
+
+<img src="generartingConstructorUsingFields.jpg" alt="alt text" width="500"/>
+
+JÄIN 2:20
