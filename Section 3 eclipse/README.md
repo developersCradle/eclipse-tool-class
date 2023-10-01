@@ -91,13 +91,11 @@
 
 - We can look where this method is being called
 
-
 ### Call Hierarchy: Sequence of methods calls
 
 > Right-click > Open Call Hierarchy
 
 - Given sequence of methods calls
-
 
 <img src="callHierachyCalls.jpg" alt="alt text" width="600"/>
 
@@ -118,4 +116,43 @@
 
 <img src="generartingConstructorUsingFields.jpg" alt="alt text" width="500"/>
 
-JÄIN 2:20
+### Override / Implement Methods
+
+> Right-click > Source > Override / Implement Methods
+
+<img src="override.jpg" alt="alt text" width="500"/>
+
+- Usually we be overriding `toString()` method
+
+### Template shortcuts
+
+<img src="ctrl+space.jpg" alt="alt text" width="500"/>
+
+1. `Ctrl+Space` will auto complete code from template 
+    - These can be found in Eclipse 
+> Java > Editor > Templates > Main
+
+<img src="templateList.jpg" alt="alt text" width="500"/>
+
+### Format
+
+> Right-click > Source > Format
+
+
+### Refactoring
+
+![Refactoring](refactoring.png)
+
+### Extract Constant
+
+![Alt text](exctractConstant.png)
+
+1. Write new for **Extracted Constant**
+
+![Alt text](exctractConstantt.jpg)
+
+1. Extracted to own variable
+
+### Extract Local Variables
+
+> Color the code which you want to extract from code > Refactor > **Extract Local Variable**
