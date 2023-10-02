@@ -35,8 +35,6 @@ Insert certificate here when completed
 
 ## Eclipse Debugging Techniques And Tricks progress
 
-
-
 - [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201%20eclipse%20debugging) - Introduction to Java Debugging Using Eclipse
 - [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20debugging) - Basic Debugging Features
 - [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20debugging) - Advanced Debugging Features
@@ -60,13 +58,15 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 <img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/>
 
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
 ## Eclipse IDE for Beginners: Increase Your Java Productivity
 
 - [x] [Section 1](#) - Course Introduction and Special Discount Offer
 - [x] [Section 2](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20productivity) - Getting Started with Eclipse 
-- [ ] [Section 3](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20productivity) - Managing Source Code
-- [ ] [Section 4](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20productivity) - Advanced Features 
-- [ ] [Section 5](#) - Summary
+- [x] [Section 3](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20productivity) - Managing Source Code
+- [x] [Section 4](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20productivity) - Advanced Features 
+- [x] [Section 5](#) - Summary
 
 <hr>
 
@@ -81,6 +81,11 @@ If the content sparked :fire: your interest, please consider buying the course a
 [Maker Home Page](https://simmer.io/)   
 
 <!-- <img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/> -->
+Insert certificate here when completed
+
+
+**Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
+
 
 ## Devtools Pro: The Basics of Chrome Developer Tools
 
