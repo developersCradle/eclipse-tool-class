@@ -37,12 +37,12 @@ Insert certificate here when completed
 
 
 
-- [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201) - Introduction to Java Debugging Using Eclipse
-- [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202) - Basic Debugging Features
-- [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203) - Advanced Debugging Features
-- [ ] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204) - Sample Debugging Problems And Their Solution
-- [x] Section 05 - Thank You!
-- [x] Section 06 - Bonus Section
+- [x] [Section 01](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%201%20eclipse%20debugging) - Introduction to Java Debugging Using Eclipse
+- [x] [Section 02](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20debugging) - Basic Debugging Features
+- [ ] [Section 03](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20debugging) - Advanced Debugging Features
+- [ ] [Section 04](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20debugging) - Sample Debugging Problems And Their Solution
+- [x] [Section 05](#) - Thank You!
+- [x] [Section 06](#) - Bonus Section
 
 
 
@@ -62,17 +62,17 @@ If the content sparked :fire: your interest, please consider buying the course a
 
 ## Eclipse IDE for Beginners: Increase Your Java Productivity
 
-- [x] Section 1 - Course Introduction and Special Discount Offer
-- [x] Section 2 - Getting Started with Eclipse 
-- [ ] Section 3 - Managing Source Code
-- [ ] Section 4 - Advanced Features 
-- [ ] Section 5 - Summary
+- [x] [Section 1](#) - Course Introduction and Special Discount Offer
+- [x] [Section 2](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%202%20eclipse%20productivity) - Getting Started with Eclipse 
+- [ ] [Section 3](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%203%20eclipse%20productivity) - Managing Source Code
+- [ ] [Section 4](https://github.com/developersCradle/eclipse-tool-class/tree/main/Section%204%20eclipse%20productivity) - Advanced Features 
+- [ ] [Section 5](#) - Summary
 
 <hr>
 
 ![Devtools Pro](devtoolsChrome.JPG)
 
-All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if want to keep going he has also paid course for even better/deeper knowledge
+All course material from **Devtools Pro: The Basics of Chrome Developer Tools** by Rocco Balsamo and if you want to keep going even further, he has also paid course for even better/deeper knowledge.
 
 If the content sparked :fire: your interest, please consider buying the course and start learning :book:
 
