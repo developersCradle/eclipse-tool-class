@@ -9,15 +9,15 @@
 
 - Open class by name
 
-<img src="openType.JPG" alt="alt text" width="600"/>
+<img src="openType.JPG" alt="alt text" width="500"/>
 
 - We can open type by name from here
 
-<img src="YouCanUseWildCardsAlso.JPG" alt="alt text" width="600"/>
+<img src="YouCanUseWildCardsAlso.JPG" alt="alt text" width="500"/>
 
 - You can use **wildcards** in Eclipse. Here is usage when opening type
 
-<img src="YouCanUseWildCardsAlso.JPG" alt="alt text" width="600"/>
+<img src="YouCanUseWildCardsAlso.JPG" alt="alt text" width="500"/>
 
 ### Quick Outline
 
@@ -27,7 +27,7 @@
 
 - And it will look like such
 
-<img src="quiqk outline.JPG" alt="alt text" width="600"/>
+<img src="quiqk outline.JPG" alt="alt text" width="500"/>
 
 - You can also filter in this menu
 
@@ -43,7 +43,7 @@
 
 > Right-click > Quick Type Hierarchy
 
-<img src="quickTypeHierachy.jpg" alt="alt text" width="600"/>
+<img src="quickTypeHierachy.jpg" alt="alt text" width="500"/>
 
 - Quick Type Hierarchy
 
@@ -141,18 +141,38 @@
 
 ### Refactoring
 
-![Refactoring](refactoring.png)
+<img src="refactoring.png" alt="alt text" width="400"/>
 
 ### Extract Constant
 
-![Alt text](exctractConstant.png)
+<img src="exctractConstant.png" alt="alt text" width="400"/>
 
 1. Write new for **Extracted Constant**
 
-![Alt text](exctractConstantt.jpg)
+<img src="exctractConstantt.jpg" alt="alt text" width="400"/>
 
 1. Extracted to own variable
 
 ### Extract Local Variables
 
-> Color the code which you want to extract from code > Refactor > **Extract Local Variable**
+> Color the code which you want to extract from code > Refactor > 
+
+**Extract Local Variable**
+
+### Extract Methods
+
+<img src="excractMethod.jpg" alt="alt text" width="400"/>
+
+1. We can see this is one logical chunk of code, we want to extract this one
+
+> Color the code which you want to extract to method > Refactor > **Extract Method...**
+
+- Input name here to be refactored into 
+
+<img src="nameForExctractedMethod.jpg" alt="alt text" width="400"/>
+
+### Rename Method or variable
+
+- Renaming method or variables
+
+> Right-Click > Refactor > Rename...
