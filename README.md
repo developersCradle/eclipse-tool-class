@@ -103,10 +103,16 @@ some other todo:
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
 
-## Eclipse hotkeys
+# Eclipse hotkeys
 
 > Open implementation - **F3**
 
 <img src="f3HotKeyExample.JPG" alt="alt text" width="300"/>
 
 - Opens where `Spesification` is **implemented**
+
+> Show all usages of a variable - **Ctrl + Shift + U**
+
+<img src="ctrlShiftUHotKeyExample.JPG" alt="alt text" width="300"/>
+
+- Shows variables with different icons for read and write references. 
