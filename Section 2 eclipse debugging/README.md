@@ -5,9 +5,13 @@
 # What I Learned
 
 - Debugging is a methodical process of finding and fixing the bugs in software.
+
 <br>
+
 - Breakpoint is pause in code.
+
 <br>
+
 - **Step Over (F6)**, Line get executed and control is given in next line
 
 <img src="stepOver.JPG" alt="alt text" width="500"/>

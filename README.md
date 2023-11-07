@@ -81,11 +81,10 @@ If the content sparked :fire: your interest, please consider buying the course a
 [Maker Home Page](https://simmer.io/)   
 
 <!-- <img id="anchorIDE" src="certificateEclipseIDE.JPG" alt="alt text" width="600"/> -->
+
 Insert certificate here when completed
 
-
 **Note: The material provided in this repository is only for helping those who may get stuck at any point of time in the course. It is very advised that no one should just copy the solutions(violation of Honor Code) presented here.**
-
 
 ## Devtools Pro: The Basics of Chrome Developer Tools
 
@@ -102,7 +101,6 @@ some other todo:
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
-
 ## Eclipse hotkeys
 
 > Open implementation - **F3**
@@ -110,3 +108,15 @@ some other todo:
 <img src="f3HotKeyExample.JPG" alt="alt text" width="300"/>
 
 - Opens where `Spesification` is **implemented**
+
+> Show all usages of a variable - **Ctrl + Shift + U**
+
+<img src="ctrlShiftUHotKeyExample.JPG" alt="alt text" width="300"/>
+
+### Debugging hotkeys
+
+> Step Over - **F6**
+
+<img src="f6HotKeyExample.JPG" alt="alt text" width="300"/>
+
+- Line get executed and control is given in next line 
