@@ -101,7 +101,8 @@ some other todo:
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
-## Eclipse hotkeys
+
+# Eclipse hotkeys
 
 > Open implementation - **F3**
 
