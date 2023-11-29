@@ -97,7 +97,6 @@ Insert certificate here when completed
 some other todo:
 - todo make shortcut pdf and .md
 - todo https://www.udemy.com/course/devtools-2017-the-basics-of-chrome-developer-tools/
-- todo https://www.udemy.com/course/luv2code-eclipse-ide-for-beginners/
 - todo https://www.udemy.com/course/eclipse-java-tutorial-for-beginners/
 - todo https://www.udemy.com/course/eclipse-tips-and-tricks/
 
